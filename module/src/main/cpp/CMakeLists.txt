@@ -49,11 +49,6 @@ add_library(${MODULE_NAME}
         KittyMemory/KittyUtils.cpp
         KittyMemory/MemoryBackup.cpp
         KittyMemory/MemoryPatch.cpp
-        Substrate/hde64.c
-	    Substrate/SubstrateDebug.cpp
-	    Substrate/SubstrateHook.cpp
-    	Substrate/SubstratePosixMemory.cpp
-	    Substrate/SymbolFinder.cpp
 	    Tools/Tools.cpp
         main.cpp
         hook.cpp
