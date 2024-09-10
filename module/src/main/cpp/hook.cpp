@@ -21,6 +21,7 @@
 #include "KittyMemory/KittyScanner.h"
 #include "KittyMemory/KittyUtils.h"
 #include "Includes/Dobby/dobby.h"
+#include "AutoHook/AutoHook.h"
 #include "Tools/Tools.h"
 #include "Include/Unity.h"
 #include "Misc.h"
