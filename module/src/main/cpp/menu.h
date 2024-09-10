@@ -23,7 +23,7 @@ void DrawMenu()
             }
             EndTabBar();
         }
-        Patches();
+        //Patches();
         End();
     }
 }
