@@ -2,7 +2,7 @@
 
 #include "Struct.h"
 #include <dlfcn.h>
-
+#include "../Include/obfuscate.h"
 typedef Il2CppClass *(*class_from_name_t)(const Il2CppImage *assembly, const char *name_space,
                                           const char *name);
 
